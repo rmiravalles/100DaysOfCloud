@@ -14,11 +14,12 @@
 Fill in your details where you see this icon ✍️
 We have provided a sample Day Journey entry staring at 0. You can delete this example.
 
-## [✍️ Your Name]'s Cloud Journey
+Rodrigo's Cloud Journey
 
-[✍️ Introduce yourself]
+Hi,
+My name's Rodrigo. I'm originally from Rio de Janeiro, but for the past 2 years I've been living in Spain. I'm passionate about learning, exploring and figuring out things. I'm a newcomer to the cloud universe, and I'm having a blast. The cloud is very exciting.
 
-[✍️ Tell us why you started this challenge]
+Earlier this year I took the Azure Fundamentals certification, and since then I'm completely in love with the cloud. I had already started documenting my progress 
 
 [✍️ Tell us where you want to be at the end of the challenge]
 
