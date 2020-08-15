@@ -17,14 +17,14 @@ We have provided a sample Day Journey entry staring at 0. You can delete this ex
 Rodrigo's Cloud Journey
 
 Hi,
-My name's Rodrigo. I'm originally from Rio de Janeiro, but for the past 2 years I've been living in Spain. I'm passionate about learning, exploring and figuring out things. I'm a newcomer to the cloud universe, and I'm having a blast. The cloud is very exciting.
+My name's Rodrigo. I'm originally from Rio de Janeiro, but for the past 2 years I've been living in Spain. My new life in a new country includes a new career and new professional challenges. I'm passionate about learning, exploring new possibilities and figuring out things. I'm a newcomer to the cloud universe, and I'm having a blast. The cloud is very exciting.
 
-Earlier this year I took the Azure Fundamentals certification, and since then I'm completely in love with the cloud. I had already started documenting my progress 
+Earlier this year I took the Azure Fundamentals certification, and since then I'm completely in love with the cloud. I had already started documenting my progress in my own blog, and now I'll do it here too.
 
-[✍️ Tell us where you want to be at the end of the challenge]
+By the end of this 100 days I hope to have learned a lot, to have earned the Azure Administrator cert, and to have met lots of awesome people. Hopefully, I hope to be employed and working with the cloud.
 
-- [✍️ Link to your Twitter](https://twitter.com/username)
-- [✍️ Link to your LinkedIn](https://www.linkedin.com/in/username)
+- [@r_miravalles] https://twitter.com/r_miravalles
+- [LinkedIn] https://www.linkedin.com/in/rodrigomiravalles/
 
 ## Stepping out the door
 
