@@ -1,6 +1,3 @@
-**Add a cover photo like:**
-![placeholder image](https://via.placeholder.com/1200x600)
-
 # Creating and configuring users in Azure Active Directory
 
 ## Introduction
