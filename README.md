@@ -28,8 +28,8 @@ By the end of this 100 days I hope to have learned a lot, to have earned the Azu
 
 ## Stepping out the door
 
-- [x ] ☁️ 1 > [My First Day](Journey/001/Readme.md)
-- [x ] ☁️ 2 > [My Second Day](Journey/002/Readme.md)
+- [x] ☁️ 1 > [My First Day](Journey/001/Readme.md)
+- [x] ☁️ 2 > [My Second Day](Journey/002/Readme.md)
 - [ ] ☁️ 3 > [](Journey/003/Readme.md)
 - [ ] ☁️ 4 > [](Journey/004/Readme.md)
 - [ ] ☁️ 5 > [](Journey/005/Readme.md)
