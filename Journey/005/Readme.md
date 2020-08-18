@@ -1,31 +1,26 @@
-**Add a cover photo like:**
-![placeholder image](https://via.placeholder.com/1200x600)
-
-# New post title here
+# My first look at Terraform
 
 ## Introduction
 
-✍️ (Why) Explain in one or two sentences why you choose to do this project or cloud topic for your day's study.
+I've always wanted to learn Terraform. I find it one of the most useful tools today. This is my first attempt to deploy resources using Terraform from the Azure Cloud Shell.
 
 ## Prerequisite
 
-✍️ (What) Explain in one or two sentences the base knowledge a reader would need before describing the the details of the cloud service or topic.
+If you use the Azure Cloud Shell, you don't need to install Terraform. If it's the first time you access the Cloud Shell, you'll have to setup a storage account. Don't worry, it costs you almost nothing.
 
 ## Use Case
 
-- 🖼️ (Show-Me) Create an graphic or diagram that illustrate the use-case of how this knowledge could be applied to real-world project
-- ✍️ (Show-Me) Explain in one or two sentences the use case
+I'm a newcomer to the game, but it seems to me that Terraform is widely used. I believe it's a tool we should know.
 
 ## Cloud Research
 
-- ✍️ Document your trial and errors. Share what you tried to learn and understand about the cloud topic or while completing micro-project.
-- 🖼️ Show as many screenshot as possible so others can experience in your cloud research.
+- I've started the Terraform on Azure course from Cloudskills and read some docs from Microsoft before actually trying this project.
 
 ## Try yourself
 
-✍️ Add a mini tutorial to encourage the reader to get started learning something new about the cloud.
+For this project, I created a service principal. A service principal is a special identity created for use with applications, services and tools to communicate with Azure resources. You can restrict access by configuring the service principal. This is something I need to study more in depth. I then created a resource group using Terraform and later destroyed it.
 
-### Step 1 — Summary of Step
+### Step 1 — Setting the service principal
 
 ![Screenshot](https://via.placeholder.com/500x300)
 
