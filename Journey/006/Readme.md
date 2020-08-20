@@ -5,7 +5,7 @@
 ## Cloud Research
 
 - Not much clouding today. Just started learning how to create a storage account in Azure to store Terraform states.
-- It is best to store Terraform configurations in the cloud, rather than locally. It's safer, more reliable, and can works better in a collaborative environment.
+- It is best to store Terraform configurations in the cloud, rather than locally. It's safer, more reliable, and can work better in a collaborative environment.
 
 ## Social Proof
 
