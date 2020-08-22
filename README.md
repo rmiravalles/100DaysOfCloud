@@ -34,7 +34,7 @@ By the end of this 100 days I hope to have learned a lot, to have earned the Azu
 - [x] ☁️ 4 > [My Fourth Day](Journey/004/Readme.md)
 - [x] ☁️ 5 > [My Fifth Day](Journey/005/Readme.md)
 - [x] ☁️ 6 > [My Sixth Day](Journey/006/Readme.md)
-- [ ] ☁️ 7 > [](Journey/007/Readme.md)
+- [x] ☁️ 7 > [My Seventh Day](Journey/007/Readme.md)
 - [ ] ☁️ 8 > [](Journey/008/Readme.md)
 - [ ] ☁️ 9 > [](Journey/009/Readme.md)
 - [ ] ☁️ 10 > [](Journey/010/Readme.md)
