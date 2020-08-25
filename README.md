@@ -36,7 +36,7 @@ By the end of this 100 days I hope to have learned a lot, to have earned the Azu
 - [x] ☁️ 6 > [My Sixth Day](Journey/006/Readme.md)
 - [x] ☁️ 7 > [My Seventh Day](Journey/007/Readme.md)
 - [x] ☁️ 8 > [My Eighth Day](Journey/008/Readme.md)
-- [ ] ☁️ 9 > [](Journey/009/Readme.md)
+- [x] ☁️ 9 > [My Ninth Day](Journey/009/Readme.md)
 - [ ] ☁️ 10 > [](Journey/010/Readme.md)
 
 ## Walking down the road
