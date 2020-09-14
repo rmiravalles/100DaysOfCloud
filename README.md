@@ -42,7 +42,7 @@ By the end of this 100 days I hope to have learned a lot, to have earned the Azu
 ## Walking down the road
 
 - [x] ☁️ 11 > [My Eleventh Day](Journey/011/Readme.md)
-- [ ] ☁️ 12 > [](Journey/012/Readme.md)
+- [x] ☁️ 12 > [My Twelfth Day](Journey/012/Readme.md)
 - [ ] ☁️ 13 > [](Journey/013/Readme.md)
 - [ ] ☁️ 14 > [](Journey/014/Readme.md)
 - [ ] ☁️ 15 > [](Journey/015/Readme.md)
